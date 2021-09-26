@@ -1,2 +1,24 @@
 # halopet
-aplikasi yang dapat menginformasikan artikel terkait tentang kesehatan hewan peliharaan dan menyediakan obat-obatan atau kebutuhan lain yang dapat membantu kesehatan hewan peliharaan, serta menyediakan akses ke diskusi dengan dokter hewan untuk mendiskusikan masalah yang dimiliki pemilik hewan peliharaan
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
